@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282150813358",
+    "firebase_url": "https://fir-data-3cc39.firebaseio.com",
+    "project_id": "fir-data-3cc39",
+    "storage_bucket": "fir-data-3cc39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282150813358:android:0fe23163524bc138",
+        "android_client_info": {
+          "package_name": "com.firebase.alokraj.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282150813358-206cui3eo0pi72ftuvaqqin622r564cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv_WOjSf6PwIqihF70f1qSU0sfh-dSUMw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
